@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Local vector databases
+chroma_db/
+data/chroma_db/
+
+# Local tooling
+.claude/
+
+# Secrets
+.env
